@@ -1,0 +1,15 @@
+GitHub Wiki is a feature of GitHub that allows users to create and maintain documentation for their projects. Here are some key features of GitHub Wiki:
+
+Easy to create and edit: Creating a Wiki page is as easy as creating a new file in your repository. You can use Markdown or a WYSIWYG editor to format your content.
+
+Collaborative: Like other GitHub features, the Wiki is collaborative. Anyone with write access to the repository can contribute to the Wiki.
+
+Version Control: Wiki pages are stored in the same repository as your code, which means they are subject to the same version control system. This makes it easy to track changes to your documentation over time.
+
+Access Control: You can control who can access your Wiki by setting repository permissions. You can choose to make your Wiki public or private.
+
+Linking: You can link to other pages in your Wiki, as well as to external resources. This makes it easy to create a comprehensive documentation system for your project.
+
+Search: GitHub Wiki includes a search function, which makes it easy to find the information you need.
+
+Customizable: You can customize the look and feel of your Wiki by creating a custom theme. You can also add images, videos, and other media to your pages.
